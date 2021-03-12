@@ -1,0 +1,11 @@
+
+streamlit
+regex
+cloudpickle
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
+seaborn
